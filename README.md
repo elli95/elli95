@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi I'm Elise 👋
+I am currently studying frontend development at Noroff - School of technology and digital media.
 <!--
 **elli95/elli95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
