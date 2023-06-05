@@ -1,5 +1,7 @@
 ### Hi I'm Elise 👋
-I am currently studying frontend development at Noroff - School of technology and digital media.
+🔭 I am currently studying frontend development at Noroff - School of technology and digital media, while located in Tønsberg, Norway. 
+In my spare time, I like to play games, work with various crafts and occasionally take a walk in the forest, among other things. 
+I am a structured and solution-oriented person who wants to learn more within front-end development and IT. 🌱 
 <!--
 **elli95/elli95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
