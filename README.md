@@ -1,9 +1,11 @@
-### Hi I'm Elise 👋
-🔭 I am currently studying frontend development at Noroff - School of technology and digital media, while located in Tønsberg, Norway. 
+### Hi 👋 My name is Elise Marie Hogsnes
+🔭 I am currently studying front-end development at Noroff - School of technology and digital media, while located in Tønsberg, Norway. 
+
+I am a structured and solution-oriented person who wants to learn more within front-end development and IT. 🌱 
 
 In my spare time, I like to play games, work with various crafts and occasionally take a walk in the forest, among other things. 
 
-I am a structured and solution-oriented person who wants to learn more within front-end development and IT. 🌱 
+📫 If you want to contact me, you can reach me at [Linkedin](https://www.linkedin.com/in/elise-marie-hogsnes-77b13b1aa/?original_referer=) or send me an email at [elise-marie.h@hotmail.com](mailto:elise-marie.h@hotmail.com)
 <!--
 **elli95/elli95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
