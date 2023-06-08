@@ -7,7 +7,13 @@
 
 📫 If you want to contact me, you can reach me at [Linkedin](https://www.linkedin.com/in/elise-marie-hogsnes-77b13b1aa/?original_referer=) or send me an email at [elise-marie.h@hotmail.com](mailto:elise-marie.h@hotmail.com)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
+[![My Skills](https://skillicons.dev/icons?i=wordpress)](https://wordpress.com/hosting/?aff=13357&url=https://wordpress.com/hosting/)
+
+<!-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,wordpress)](https://skillicons.dev) -->
 <!--
 **elli95/elli95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
