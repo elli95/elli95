@@ -1,7 +1,8 @@
 ### Hi, my name is Elise Marie Hogsnes 👋
-🔭 I am currently studying front-end development at Noroff - School of technology and digital media, while located in Tønsberg, Norway. 
 
-🌱 I am a structured and solution-oriented person who wants to learn more within front-end development and IT. 
+🌱 I am a structured and solution-oriented person who wants to learn more within front-end development and IT.
+
+🔭 I am currently studying front-end development at Noroff - School of technology and digital media, while located in Tønsberg, Norway.  
 
 😄 In my spare time, I like to play games, work with various crafts and occasionally take a walk in the forest, among other things. 
 
