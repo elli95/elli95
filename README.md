@@ -2,7 +2,7 @@
 
 🌱 I am a structured and solution-oriented person who is open and interested in learning new things.
 
-🔭 Currently, I am studying frontend development at Noroff - School of technology and digital media (graduating June 2024), while located in Tønsberg, Norway.  
+🔭 I have just completed my studies in frontend development at Noroff - School of Technology and Digital Media, graduating in June 2024, while located in Vestfold, Norway.  
 
 😄 In my spare time, I like to play games, work with various crafts and occasionally take a walk in the forest, among other things. 
 
