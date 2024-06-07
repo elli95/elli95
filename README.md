@@ -1,18 +1,22 @@
-## Hi, my name is Elise Marie Hogsnes 👋
+## Hi, I'm Elise Marie Hogsnes 👋
 
-🌱 I am a structured and solution-oriented person who is open and interested in learning new things.
+🌱 I'm a passionate, structured, solution-oriented Front-end Developer from Tønsberg, Norway, that is always eager to learn. 
 
-🔭 I have just completed my studies in frontend development at Noroff - School of Technology and Digital Media, graduating in June 2024, while located in Vestfold, Norway.  
+🔭 I recently graduated in front-end development from Noroff - School of Technology and Digital Media (June 2024), and is now looking for new endeavors.  
 
-😄 In my spare time, I like to play games, work with various crafts and occasionally take a walk in the forest, among other things. 
+😄 Outside of coding, I enjoy playing games, engaging in crafts, taking walks in the forest, cooking, and skiing in the winter.
 
-📫 If you want to contact me, you can reach me at [Linkedin](https://www.linkedin.com/in/elise-marie-hogsnes-77b13b1aa/?original_referer=) or send me an email at [elise-marie.h@hotmail.com](mailto:elise-marie.h@hotmail.com)
+📫 Let's connect! Reach me on [Linkedin](https://www.linkedin.com/in/elise-marie-hogsnes-77b13b1aa/?original_referer=) or email me at [elise-marie.h@hotmail.com](mailto:elise-marie.h@hotmail.com)
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
 [![My Skills](https://skillicons.dev/icons?i=wordpress)](https://wordpress.com/hosting/?aff=13357&url=https://wordpress.com/hosting/)
+[![My Skills](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+[![My Skills](https://skillicons.dev/icons?i=tailwindcss)](https://tailwindcss.com/)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,wordpress)](https://skillicons.dev) -->
 <!--
