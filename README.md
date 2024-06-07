@@ -4,6 +4,8 @@
 
 🔭 I recently graduated in front-end development from Noroff - School of Technology and Digital Media (June 2024), and is now looking for new endeavors.  
 
+🌐 Learn more about me and get a comprehensive look at my work on my [portfolio page](https://elisemariehogsnes.netlify.app/).
+
 😄 Outside of coding, I enjoy playing games, engaging in crafts, taking walks in the forest, cooking, and skiing in the winter.
 
 📫 Let's connect! Reach me on [Linkedin](https://www.linkedin.com/in/elise-marie-hogsnes-77b13b1aa/?original_referer=) or email me at [elise-marie.h@hotmail.com](mailto:elise-marie.h@hotmail.com)
